@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Toms Kristiāns Prūsis and I am an aspiring software developer. Even though, I mainly code in Java, I try to keep my mind sharp and active by learning new languages and revising the ones I already know, constantly improving my knowledge base.
+My name is Toms Kristiāns Prūsis. I am an aspiring software developer. Even though I mainly code in Java, I try to keep my mind sharp and active by learning new languages and revising the ones I already know, constantly improving my knowledge base.
 
 - 🔭 I’m currently working on a flight planner API
 - 🌱 I’m currently learning to code in Ruby with the Rails framework
